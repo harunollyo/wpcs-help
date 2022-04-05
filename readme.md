@@ -1,6 +1,6 @@
 # WordPress Coding Standard Help
 
-### 1. Install the composer package
+### 1. Install composer packages
 ```    
 composer global require squizlabs/php_codesniffer
 ```
@@ -9,19 +9,20 @@ composer global require wp-coding-standards/wpcs
 ```
     
 **Installation Test**
-    
+
 ``` 
 phpcs -i
 ```
 
 `phpcs` and `phpcbf` installed path.  
-  
-/Users/your_username/.composer/vendor/bin/phpcs  
+```
+/Users/your_username/.composer/vendor/bin/phpcs
+```
+```
 /Users/your_username/.composer/vendor/bin/phpcbf  
-
-[Note] change  `your_username`
-
-### 2. Set WordPress as default coding standards
+```
+[Note] change  `your_username`  
+### 2. Set WordPress as default coding standard
 [Note] change `your_username`
     
 ```
@@ -34,7 +35,7 @@ phpcs --config-set installed_paths /Users/your_username/.composer/vendor/wp-codi
 phpcs --config-show
 ```
 
-### 3. For validate your php file
+### 3. For validate your php file, run
     
 ```
 phpcs abc.php
