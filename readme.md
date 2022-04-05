@@ -1,4 +1,5 @@
 # WordPress Coding Standard Help
+
 ### 1. Install the composer package
 ```    
 composer global require squizlabs/php_codesniffer
@@ -44,3 +45,5 @@ phpcs abc.php
 ```
 phpcbf abc.php
 ```
+
+[Read about PHP CS for WordPress](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/php/)
