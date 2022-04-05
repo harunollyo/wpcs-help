@@ -1,3 +1,4 @@
+# WordPress Coding Standard Help
 ### 1. Install the composer package
 ```    
 composer global require squizlabs/php_codesniffer
