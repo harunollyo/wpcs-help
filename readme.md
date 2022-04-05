@@ -12,9 +12,12 @@ composer global require wp-coding-standards/wpcs
 phpcs -i
 ```
 
-`phpcs` and `phpcbf` installed path. [Note] change  `your_username`  
+`phpcs` and `phpcbf` installed path.  
+  
 /Users/your_username/.composer/vendor/bin/phpcs  
-/Users/your_username/.composer/vendor/bin/phpcbf
+/Users/your_username/.composer/vendor/bin/phpcbf  
+
+[Note] change  `your_username`
 
 ### 2. Set WordPress as default coding standards
 [Note] change `your_username`
