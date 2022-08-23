@@ -35,7 +35,7 @@ phpcs --config-set installed_paths /Users/your_username/.composer/vendor/wp-codi
 phpcs --config-show
 ```
 
-### 3. For validate your php file, run
+### 3. Run `phpcs` for validate your php file, run
     
 ```
 phpcs abc.php
