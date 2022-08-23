@@ -41,7 +41,7 @@ phpcs --config-show
 phpcs abc.php
 ```
 
-### 4. For automatic fix, run
+### 4. Run `phpcbf` for automatic fix, run
 
 ```
 phpcbf abc.php
