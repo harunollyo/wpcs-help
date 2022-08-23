@@ -1,4 +1,4 @@
-# WordPress Coding Standard Help
+# WordPress Coding Standard Setup Guideline
 
 ### 1. Install composer packages
 ```    
@@ -8,7 +8,7 @@ composer global require squizlabs/php_codesniffer
 composer global require wp-coding-standards/wpcs
 ```
     
-**Installation Test**
+**Installation Test**: Run the below command for checking phpcs is installed correctly.
 
 ``` 
 phpcs -i
