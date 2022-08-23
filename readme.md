@@ -1,4 +1,4 @@
-# WordPress Coding Standard Setup Guideline
+# WordPress Coding Standard Setup
 
 ### 1. Install composer packages
 ```    
