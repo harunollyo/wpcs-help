@@ -21,7 +21,7 @@ phpcs -i
 ```
 /Users/your_username/.composer/vendor/bin/phpcbf  
 ```
-[Note] change  `your_username`  
+**[Note]** change  `your_username`  
 ### 2. Set WordPress as default coding standard
 [Note] change `your_username`
     
